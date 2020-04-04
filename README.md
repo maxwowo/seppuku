@@ -1,0 +1,2 @@
+# seppuku
+A Sudoku solver.
